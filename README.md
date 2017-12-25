@@ -29,6 +29,7 @@ who,when,how,where,what,why...
 # 辅助编程：
           GUI：https://github.com/alejandroautalan/pygubu
           selenium：selenium IDE
+          3D:blender
                          
 ![](http://static.open-open.com/news/uploadImg/20150316/20150316084735_935.gif)
 ![](http://img2.imgtn.bdimg.com/it/u=1341120858,540027728&fm=11&gp=0.jpg)
