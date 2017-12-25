@@ -25,7 +25,9 @@ who,when,how,where,what,why...
                          
                          https://github.com/tchapi/markdown-cheatsheet
                          
-
+# 胶水特性：
+          execjs 可以用來執行 JavaScript，但是沒有任何的安全機制。若是從網站下載的 JavaScript 包含惡意程式（如︰刪光你的資料、破壞作業系統、病毒……等），以 execjs 執行是完全無法防止的。
+          node_vm2 用 vm2 執行 JavaScript，比 execjs 多了一層沙箱防護。
 # 辅助编程：
           GUI：https://github.com/alejandroautalan/pygubu
           selenium：selenium IDE
