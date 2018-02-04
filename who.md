@@ -1,1 +1,11 @@
 https://github.com/brianwrf?utf8=%E2%9C%93&tab=repositories&q=&type=&language=python
+
+https://github.com/offensive-security
+
+https://github.com/Hood3dRob1n
+
+https://github.com/mhils
+
+https://github.com/enigma0x3
+
+
