@@ -1,8 +1,8 @@
 # kali linux selfstyle
 
-### 更新源
+### 系统
 
-/etc/apt/sources.list
+kali linux
 
 ### 输入法
 
@@ -10,11 +10,21 @@ fcitx
 
 ### 浏览器
 
+firefox
+
+chrome
+
+
 ### 文本编辑
 sublime
+
 vim
 
 ### IDE
+
+pycharm
+
+vim
 
 ### 游戏引擎
 blender
