@@ -74,3 +74,5 @@ https://github.com/Panopticon-Project
 
 https://github.com/kbandla?tab=following
 
+https://github.com/jvdroit?tab=following
+
