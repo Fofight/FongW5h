@@ -1,4 +1,5 @@
-https://github.com/brianwrf?tab=following
+### following
+[brianwrf](https://github.com/brianwrf?tab=following)
 
 https://github.com/offensive-security
 
