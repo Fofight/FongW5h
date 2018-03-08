@@ -14,6 +14,8 @@ firefox
 
 chrome
 
+tor
+
 
 ### 文本编辑
 sublime
@@ -25,6 +27,20 @@ vim
 pycharm
 
 vim
+
+eclipse
+
+### 绘图
+
+gimp
+
+### 办公
+
+libreoffice
+
+### 虚拟机
+
+virtualbox
 
 ### 游戏引擎
 blender
@@ -38,3 +54,32 @@ django
 
 ### 脑图
 vym
+
+### 邮箱
+
+thunderbird
+
+### 截图
+
+screengrab
+
+### 视频
+
+vlc
+
+
+
+# APT
+weka
+eclipse
+blender
+vym
+thunderbird
+screengrab
+vlc
+pymol
+gimp
+libreoffice
+virtualbox
+
+
