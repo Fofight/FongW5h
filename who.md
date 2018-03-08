@@ -1,8 +1,7 @@
 ### following
 [brianwrf](https://github.com/brianwrf?tab=following)
 
-
-https://github.com/Hood3dRob1n
+[Hood3dRob1n](https://github.com/Hood3dRob1n?tab=following)
 
 https://github.com/mhils
 
