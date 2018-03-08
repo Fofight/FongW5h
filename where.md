@@ -67,6 +67,9 @@ screengrab
 
 vlc
 
+### 机器学习
+
+tensorflow
 
 
 # APT
