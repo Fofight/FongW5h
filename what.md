@@ -63,6 +63,12 @@ thunderbird
 
 screengrab
 
+### 录屏
+
+kazam
+
+
+
 ### 视频
 
 vlc
